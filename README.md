@@ -1,4 +1,4 @@
-# BasicbankingSystem-TheSparksFoundation
+# BasicBankingSystem-TheSparksFoundation
 
 Hello!
 I am extremely delighted to share that I have successfully completed the #task1 given by The Sparks Foundation as Web development and design intern. #task1 - basic banking system.
